@@ -1,0 +1,3 @@
+D:/Ailoitte/flutter-simple-edge-detection/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/native_edge_detection.dir
+D:/Ailoitte/flutter-simple-edge-detection/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/Ailoitte/flutter-simple-edge-detection/example/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

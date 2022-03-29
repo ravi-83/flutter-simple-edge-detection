@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android",
+      "sdkFolder": "C:\\Users\\imrav\\AppData\\Local\\Android\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\build\\app\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app",
+      "makeFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\.cxx",
+      "cxxFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\imrav\\AppData\\Local\\Android\\sdk\\ndk\\23.1.7779620-2",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions -std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\build\\app\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\build\\app\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\build\\app\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

@@ -1,0 +1,39 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/Ailoitte/flutter-simple-edge-detection/example/android/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\imrav\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"lib_opencv-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "lib_opencv",
+			"buildType" : "debug",
+			"output" : "D:/Ailoitte/flutter-simple-edge-detection/example/android/app/src/main/jniLibs/armeabi-v7a/libopencv_java4.so",
+			"toolchain" : "3385753577"
+		},
+		"native_edge_detection-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native_edge_detection",
+			"buildCommand" : "C:\\Users\\imrav\\AppData\\Local\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Ailoitte\\flutter-simple-edge-detection\\example\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target native_edge_detection",
+			"buildType" : "debug",
+			"output" : "D:/Ailoitte/flutter-simple-edge-detection/example/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libnative_edge_detection.so",
+			"toolchain" : "3385753577"
+		}
+	},
+	"toolchains" : 
+	{
+		"3385753577" : 
+		{
+			"cCompilerExecutable" : "C:/Users/imrav/AppData/Local/Android/Sdk/ndk/23.1.7779620-2/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/imrav/AppData/Local/Android/Sdk/ndk/23.1.7779620-2/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
